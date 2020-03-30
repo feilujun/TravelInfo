@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\TravelInfo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3006013871.index
+2246004368.index
+130765188.index
+1276978355.index
+3734209112.index
+369174926.index
+1428007453.index
